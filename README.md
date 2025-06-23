@@ -16,3 +16,5 @@ Build a basic calculator using **Java Console I/O** that performs:
 - Supports repeated calculations using a loop after user types "yes"
 - Handles Divion by zero errors
 - clean exit when user types "no"
+## Output Image
+- Sample Output(https://github.com/SusmithaHS/task-1-submission/blob/main/image.png)
